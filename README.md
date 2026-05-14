@@ -12,10 +12,10 @@ I’m currently studying **Systems Development at SENAI CIMATEC** and building p
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/henrique-Brandao">
+  <a href="https://github.com/henrique-Brandao" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-HENRIQUE--BRANDAO-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/Brandaohenrique">
+  <a href="https://www.linkedin.com/in/Brandaohenrique" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-HENRIQUE%20BRANDÃO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
